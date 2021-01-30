@@ -64,11 +64,11 @@ experiences:
       time: 2017 - 2021
       company: Architrave GmbH
       details: |
-       -    Developed & Demo an End‑to‑End pipeline prototype for extracting various data fields from Leased Contracts by down‑streaming & fine‑tuningBERT transformer language model (MLM) in question answering task. (Python, Pytorch, Flask, java script, HTML, MLFlow)
+       -    Developed & demo an End‑to‑End pipeline prototype for extracting various data fields from Leased Contracts by down‑streaming & fine‑tuningBERT transformer language model (MLM) in question answering task. (Python, Pytorch, Flask, java script, HTML, MLFlow)
        -    Collaborated with all the team members to built an End‑to‑End pipeline for classifying real‑estate assets and extracting data fields from PDFand Excel sheets. (SVM, Python, Flask, Airflow, Docker, AWS, S3, EC2)
        -    Designed, implemented and evaluated of the Machine Learning based signature detection application for legal contracts using advance objectdetection solutions. (e.g. Fast R‑CNN & Yolo v3)
-       -    Deployed machine learning model in production for extracting name entities from documents using bidirectional LSTM (BI‑LSTM) with a bidi‑rectional Conditional Random Field (BI‑CRF) layer. (Keras, Python)
-       -    Created and presented models for Blueprint image classification using hybrid approaches (Python, sklearn)
+       -    Trained and deployed a machine learning model in production for extracting name entities from documents using bidirectional LSTM (BI‑LSTM) with a bidi‑rectional Conditional Random Field (BI‑CRF) layer. (Keras, Python)
+       -    Created and presented models for Blueprint image classification using hybrid approaches. (Python, sklearn)
     - role: Researcher
       time: 2015 - 2017
       company: University of Trento
@@ -101,7 +101,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      Here is the list of my scientific publications during my Ph.D and the second master.
+      
     papers:
       - title: "Autonomous Crowd‑sourcing through Human‑Machine Collaborative Learning"
         link: "#"
@@ -149,23 +149,24 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Deep Learning, XGBoost, Random‑Forest, Support Vectors Machines, regression, Ensemble Approaches, Transfer Learning,
+Question Answering, Sentiment analysis, Document Classification, #Natural Language Processing Tasks, #Computer Vision
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: Python & Django
+      - name: AWS, Docker, Airflow
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Flask, REST API
+        level: 60%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: HTML5, Java script, Semantic UI, CSS
+        level: 70%
 
-      - name: Ruby on Rails
+      - name: Python, JAVA, Shell
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Jupyter, Sklearn, Gensim, BERT, Pytorch, NLTK, Pandas, Numpy, Elastic‑Search, Mysql, MLflow, Git
+        level: 70%
 
 footer: >
         <a href="" target="_blank" rel="nofollow">Updated 2021</a>
