@@ -106,17 +106,44 @@ publications:
       - title: "Autonomous Crowd‑sourcing through Human‑Machine Collaborative Learning"
         link: "#"
         authors: "A. Abad, M. Nabi, A. Moschitti"
-        conference: SigIR 2017, Tokyo Japan
+        conference: "SigIR 2017, Tokyo Japan"
 
       - title: "Self‑Crowdsourcing for Relation Extraction"
         link: "#"
         authors: "A. Abad, M.Nabi, A. Moschitti."
-        conference: "A. Abad, M.Nabi, A. Moschitti. in Proceedings of the Association for Computational Linguistics(ACL’17), Vancouver, Canada, August 2017."
+        conference: "in Proceedings of the Association for Computational Linguistics(ACL’17), Vancouver, Canada, August 2017."
 
       - title: "Appetitoso: A Search Engine for Restaurant Retrieval based on Dishes"
         link: "#"
         authors: "G. Barlacchi, A.Abad, E. Rossinelli, A. Moschitti."
         conference: "Third Italian Conference on Computational Linguistics, CLiC‑IT 2016 Napoli, Italy, December 2016"
+        
+      - title: "Taking the Best from the Crowd: Learning Question Passage Classifcation from Noisy Data"
+        link: "#"
+        authors: "A. Abad, A. Moschitti."
+        conference: "5th Joint Conference on Lexical and Computational Semantics, *SEM 2016, Berlin, Germany, August 2016"
+        
+      - title: "Distant Supervision for Relation Extraction Using Tree Kernels"
+        link: "#"
+        authors: "A. Abad, A. Moschitti."
+        conference: "6th Italian Information Retrieval Workshop, IIR 2014 Cagliari, Italy, May 2015"
+        
+      - title: "Creating a Standard for Evaluating Distant Supervision for Relation Extraction"
+        link: "#"
+        authors: "A. Abad, A. Moschitti."
+        conference: "First Italian Conference on Computational Linguistics, CLIC 2014, Pisa, Italy, December 2014"
+        
+      - title: "A Multi‑task Learning Framework for Time‑continuous Emotion Estimation from Crowd Annotations"
+        link: "#"
+        authors: "M. Khomam Abadi, A. Abad, R. Subramanian, N. Rostamzadeh, E. Ricci, J. Varadarajan, N. Sebe"
+        conference: "International ACM Workshop on Crowdsourcing for Multimedia, CrowdMM 2014, Florida, USA, November 2014"
+        
+      - title: "A Resource for Investigating the Impact of Anaphora and Coreference on Inference"
+        link: "#"
+        authors: "A. Abad, L. Bentivogli, I. Dagan, D. Giampiccolo, S. Mirkin, E. Pianta, A. Stern"
+        conference: "LREC, Malta, May 2010"
+
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -126,7 +153,7 @@ skills:
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: Python & Django
 
       - name: Angular
         level: 98%
