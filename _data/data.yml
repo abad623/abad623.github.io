@@ -149,7 +149,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Deep Learning, XGBoost, RF, SVM, regression, Ensemble Approaches, Transfer Learning, Question Answering, Sentiment analysis, Document Classification
+      - name: Deep Learning, Transfer Learning, Question Answering, NLP
         level: 90%
 
       - name: AWS, Docker, Airflow
@@ -164,7 +164,10 @@ skills:
       - name: Python, JAVA, Shell
         level: 85%
 
-      - name: Jupyter, Sklearn, Gensim, BERT, Pytorch, NLTK, Pandas, Numpy, Elastic‑Search, Mysql, MLflow, Git
+      - name: Jupyter, Sklearn, Gensim, BERT, Pytorch, NLTK, Pandas, Numpy
+        level: 70%
+        
+      - name:  Elastic‑Search, Mysql, MLflow, Git
         level: 70%
 
 footer: >
