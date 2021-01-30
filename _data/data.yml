@@ -35,64 +35,30 @@ sidebar:
       - idiom: German
         level: Basic
 
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
       An experienced researcher with a demonstrated history of working in research & industry. Skilled in Machine Learning, Deep Learning, NaturalLanguage Processing, Crowdsourcing, Intelligent Human‑Machine Collaboration and computer science. Strong research professional with a Doc‑tor of Philosophy (Ph.D) focused on developing simple and efficient machine learning algorithms that are broadly applicable across a range ofproblem domains including natural language processing and computer vision.
 education:
-    - degree: PH.D. iN COMPUTER SCIENCE
+    - degree: PH.D. IN COMPUTER SCIENCE
       university: University of Trento
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - degree: POSTGRADUATE IN HUMAN LANGUAGE TECHNOLOGY & INTERFACES
       university: University of Trento
       time: 2008 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree:   MASTER OF ENGiNEERiNG IN INFORMATION TECHNOLOGY AND MULTIMEDIA
+       
+    - degree:   MASTER OF ENGINEERING IN INFORMATION TECHNOLOGY AND MULTIMEDIA
       university: University Putra Malaysia
       time: 2004 - 2007
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+  
       university: University of Trento
       time: 2008 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
 experiences:
     - role: Senior Data Scientist
       time: 2017 - 2021
@@ -139,18 +105,18 @@ publications:
     papers:
       - title: "Autonomous Crowd‑sourcing through Human‑Machine Collaborative Learning"
         link: "#"
-        authors: A. Abad, M. Nabi, A. Moschitti
+        authors: "A. Abad, M. Nabi, A. Moschitti"
         conference: SigIR 2017, Tokyo Japan
 
       - title: "Self‑Crowdsourcing for Relation Extraction"
         link: "#"
-        authors: A. Abad, M.Nabi, A. Moschitti.
-        conference: A. Abad, M.Nabi, A. Moschitti. in Proceedings of the Association for Computational Linguistics(ACL’17), Vancouver, Canada, August 2017.
+        authors: "A. Abad, M.Nabi, A. Moschitti."
+        conference: "A. Abad, M.Nabi, A. Moschitti. in Proceedings of the Association for Computational Linguistics(ACL’17), Vancouver, Canada, August 2017."
 
-      - title: Appetitoso: A Search Engine for Restaurant Retrieval based on Dishes
+      - title: "Appetitoso: A Search Engine for Restaurant Retrieval based on Dishes"
         link: "#"
-        authors: G. Barlacchi, A.Abad, E. Rossinelli, A. Moschitti.
-        conference: Third Italian Conference on Computational Linguistics, CLiC‑IT 2016 Napoli, Italy, December 2016
+        authors: "G. Barlacchi, A.Abad, E. Rossinelli, A. Moschitti."
+        conference: "Third Italian Conference on Computational Linguistics, CLiC‑IT 2016 Napoli, Italy, December 2016"
 
 skills:
     title: Skills &amp; Proficiency
@@ -175,4 +141,4 @@ skills:
         level: 60%
 
 footer: >
-    </i> <a href="" target="_blank" rel="nofollow">Updated 2021</a>
+        <a href="" target="_blank" rel="nofollow">Updated 2021</a>
