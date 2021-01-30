@@ -150,7 +150,7 @@ skills:
 
     toolset:
       - name: Deep Learning, XGBoost, Random‑Forest, Support Vectors Machines, regression, Ensemble Approaches, Transfer Learning,
-Question Answering, Sentiment analysis, Document Classification, #Natural Language Processing Tasks, #Computer Vision
+Question Answering, Sentiment analysis, Document Classification
         level: 90%
 
       - name: AWS, Docker, Airflow
