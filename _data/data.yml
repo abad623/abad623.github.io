@@ -149,8 +149,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Deep Learning, XGBoost, Random‑Forest, Support Vectors Machines, regression, Ensemble Approaches, Transfer Learning,
-Question Answering, Sentiment analysis, Document Classification
+      - name: Deep Learning, XGBoost, RF, SVM, regression, Ensemble Approaches, Transfer Learning, Question Answering, Sentiment analysis, Document Classification
         level: 90%
 
       - name: AWS, Docker, Airflow
