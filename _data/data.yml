@@ -42,7 +42,7 @@ career-profile:
 education:
     - degree: PH.D. IN COMPUTER SCIENCE
       university: University of Trento
-      time: 2011 - 2012
+      time: 2011 - 2017
       details: |
 
     - degree: POSTGRADUATE IN HUMAN LANGUAGE TECHNOLOGY & INTERFACES
@@ -55,9 +55,7 @@ education:
       time: 2004 - 2007
       details: |
   
-      university: University of Trento
-      time: 2008 - 2010
-      details: |
+     
         
 experiences:
     - role: Senior Data Scientist
