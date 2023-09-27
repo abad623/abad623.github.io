@@ -58,14 +58,22 @@ education:
      
         
 experiences:
+    - role: Lead Data Scientist
+      time: 2021 - 2023
+      company: Evana AG
+      details: |
+       -    Developed & demo an End‑to‑End Training Data Platform (TDP) in Azure Cloud Service to centralize all the documents & their corresponding labels in Azure Data‑lake
+       -    Design and implement document ingestion pipeline using Azure Data Factory    
+       -    Design and implement document classification pipeline to train, deploy, and monitor machine learning models using Azure ML studio 
+       
     - role: Senior Data Scientist
       time: 2017 - 2021
       company: Architrave GmbH
       details: |
-       -    Developed & demo an End‑to‑End pipeline prototype for extracting various data fields from Leased Contracts by down‑streaming & fine‑tuningBERT transformer language model (MLM) in question answering task. (Python, Pytorch, Flask, java script, HTML, MLFlow)
-       -    Collaborated with all the team members to built an End‑to‑End pipeline for classifying real‑estate assets and extracting data fields from PDFand Excel sheets. (SVM, Python, Flask, Airflow, Docker, AWS, S3, EC2)
-       -    Designed, implemented and evaluated of the Machine Learning based signature detection application for legal contracts using advance objectdetection solutions. (e.g. Fast R‑CNN & Yolo v3)
-       -    Trained and deployed a machine learning model in production for extracting name entities from documents using bidirectional LSTM (BI‑LSTM) with a bidi‑rectional Conditional Random Field (BI‑CRF) layer. (Keras, Python)
+       -    Developed & demoed an End‑to‑End pipeline prototype for extracting various data fields from Leased Contracts by down‑streaming & fine‑tuning BERT transformer language model (MLM) in question answering task. (Python, Pytorch, Flask, java script, HTML, MLFlow)
+       -    Collaborated with all the team members to build an End‑to‑End pipeline for classifying real‑estate assets and extracting data fields from PDF and Excel sheets. (SVM, Python, Flask, Airflow, Docker, AWS, S3, EC2)
+       -    Designed, implemented, and evaluated the Machine learning-based signature detection application for legal contracts using advanced object detection solutions. (e.g. Fast R‑CNN & Yolo v3)
+       -    Trained and deployed a machine learning model in production for extracting name entities from documents using bidirectional LSTM (BI‑LSTM) with a bi-directional Conditional Random Field (BI‑CRF) layer. (Keras, Python)
        -    Created and presented models for Blueprint image classification using hybrid approaches. (Python, sklearn)
     - role: Researcher
       time: 2015 - 2017
@@ -73,22 +81,22 @@ experiences:
       details: |
         CogNet Project
         -   Building an Intelligent System of Insights and Action for 5G Network Management
-        -   Applying machine learning to predict the traffic of 5G network based on social media content (e.g. Twitter)
+        -   Applying machine learning to predict the traffic of5G network based on social media content (e.g. Twitter)
     
     - role: Researcher
       time: 2014 - 2015
       company: University of Milan
       details: |
         Dante a Teatro e Smart Milano Project
-        -   Design & Implemented an internal crowdsourcing platform for collecting and generating training data
-        -   Implemented an End‑to‑End question classification pipeline for a closed domain task (food and dining habits in the middle ages) in Italian
+        -   Design and implemented an internal crowdsourcing platform for collecting and generating training data
+        -   Implemented an End‑to‑End question classification pipeline for a closed domain task (food and dining habits in the Middle Ages) in Italian
     
     - role: Researcher
       time: 2011 - 2014
       company: University of Trento
       details: |
        IBM jeopardy
-       -    The project was a research collaboration between IBM and University of Trento for deep understanding of question classification task and by encoding syntactic similarities of the questions using Tree Kernels
+       -    The project was a research collaboration between IBM and the University of Trento for a deep understanding of question classification tasks and by encoding syntactic similarities of the questions using Tree Kernels
     
     - role: Software Engineer
       time: 2011 - 2014
@@ -116,7 +124,7 @@ publications:
         authors: "G. Barlacchi, A.Abad, E. Rossinelli, A. Moschitti."
         conference: "Third Italian Conference on Computational Linguistics, CLiC‑IT 2016 Napoli, Italy, December 2016"
         
-      - title: "Taking the Best from the Crowd: Learning Question Passage Classifcation from Noisy Data"
+      - title: "Taking the Best from the Crowd: Learning Question Passage Classification from Noisy Data"
         link: "#"
         authors: "A. Abad, A. Moschitti."
         conference: "5th Joint Conference on Lexical and Computational Semantics, *SEM 2016, Berlin, Germany, August 2016"
